@@ -1,1 +1,1 @@
-En este archivo encontraremos proyecots de seguridad informatica basicos 
+En este archivo encontraremos proyectos de seguridad informatica basicos 
